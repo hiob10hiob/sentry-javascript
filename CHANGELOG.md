@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- This slot is waiting for you
+- [core] ref: Deprecate top-level stacktrace event attribute (#2214)
 
 ## 5.6.2
 
